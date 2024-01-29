@@ -2,7 +2,7 @@
 
 🔭 I’m currently working as a Research Assistant at the Institute of Genomics and Evolutionary Medicine at Temple University<br>
   (https://igem.temple.edu/) <br>
-🌱 I’m learning about the implemention of Deep Learning (DL) and Machine Learning (ML) algorithms in bioinformatics <br>
+🌱 I’m currently learning about the implemention of Deep Learning (DL) and Machine Learning (ML) algorithms in bioinformatics <br>
 👩🏼‍💻 I have experience in: Python, Java, R, MATLAB, SQL <br>
 📫 How to reach me: s.hchung@outlook.com <br>
 😄 Pronouns: she/her/hers
