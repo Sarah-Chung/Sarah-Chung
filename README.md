@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-🔭 I’m currently working as a Research Assistant at the Institute of Genomics and Evolutionary Medicine at Temple University, Philadelphia <br>
+🔭 I’m currently working as a Research Assistant at the Institute of Genomics and Evolutionary Medicine at Temple University <br>
 🌱 I’m currently learning R <br>
 👩🏼‍💻 I have experience in: Python, Java, R, MATLAB, SQL <br>
 💬 Ask me about evolutionary biology and bioinformatics <br>
