@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working as a Research Assistant in the Institute of Genomics and Evolutionary Medicine at Temple University, Philadelphia
-🌱 I’m currently learning R
-💬 Ask me about evolutionary biology and bioinformatics
-📫 How to reach me: s.hchung@outlook.com
+🔭 I’m currently working as a Research Assistant in the Institute of Genomics and Evolutionary Medicine at Temple University, Philadelphia <br>
+🌱 I’m currently learning R <br>
+👩🏼‍💻 I have experience in: Python, Java, R, MATLAB, SQL <br>
+💬 Ask me about evolutionary biology and bioinformatics <br>
+📫 How to reach me: s.hchung@outlook.com <br>
 😄 Pronouns: she/her/hers
 
 <!--
