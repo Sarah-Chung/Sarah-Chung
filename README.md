@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Research Assistant in the Institute of Genomics and Evolutionary Medicine at Temple University, Philadelphia
-- 🌱 I’m currently learning R
-- 💬 Ask me about evolutionary biology and bioinformatics
-- 📫 How to reach me: s.hchung@outlook.com
-- 😄 Pronouns: she/her/hers
+🔭 I’m currently working as a Research Assistant in the Institute of Genomics and Evolutionary Medicine at Temple University, Philadelphia
+🌱 I’m currently learning R
+💬 Ask me about evolutionary biology and bioinformatics
+📫 How to reach me: s.hchung@outlook.com
+😄 Pronouns: she/her/hers
 -->
