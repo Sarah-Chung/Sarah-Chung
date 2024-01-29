@@ -1,5 +1,6 @@
 ### Hi there! 👋
 
+## About Me:
 🔭 I am a Research Assistant at the Institute of Genomics and Evolutionary Medicine at Temple University<br>
   (https://igem.temple.edu/) <br>
 🌱 I’m currently learning about the implemention of Deep Learning (DL) and Machine Learning (ML) algorithms in bioinformatics <br>
