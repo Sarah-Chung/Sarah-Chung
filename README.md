@@ -1,7 +1,7 @@
-👋 Hi there, I'm Sarah!
+# 👋 Hi there, I'm Sarah!
 I am a graduate student at Temple University exploring the intersection of evolutionary biology, genetics, and bioinformatics.
 
-📬 Let's Connect  
+## 📬 Let's Connect  
 
 GitHub: You're already here! Feel free to explore my repositories.  
 
