@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Sarah!
-I am a graduate student at Temple University exploring the intersection of evolutionary biology, genetics, and bioinformatics.
+I am a Bioinformatics graduate student at Temple University exploring the intersection of evolutionary biology, genetics, and bioinformatics.
 
 ## 📬 Let's Connect  
 
